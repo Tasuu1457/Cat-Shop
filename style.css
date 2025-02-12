@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Poppins", serif;
+}
+a{
+    text-decoration: none;
+}
+.first-nav{
+    background-color: rgb(209, 191, 193);
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-title img{
+    height: 60px;
+}
+.slogan{
+    position: relative;
+    line-height: 3px;
+    top: 20px;
+    right: 240px;
+    font-size: 18px;
+    font-style: italic;
+    color:#000000;
+}
